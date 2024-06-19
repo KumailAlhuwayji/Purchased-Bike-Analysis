@@ -1,4 +1,4 @@
-# Bike Purchase Insights
+# Purchased Bike Insights
 
 ## Project Overview
 This project analyzes customer data from the "bike buyers" dataset using MS Excel to uncover insights into bike purchasing behavior. The analysis focuses on identifying demographic and lifestyle factors influencing bike purchases to guide marketing strategies for XYZ Retail Company.
