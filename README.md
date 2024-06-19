@@ -34,8 +34,3 @@ The dataset includes customer information such as marital status, income, gender
    - Emphasize benefits of biking for short commutes to attract local customers.
    - Segment marketing campaigns based on income levels to offer suitable bike models and financing options.
 
-## How to Use
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/bike-purchase-insights.git
-
